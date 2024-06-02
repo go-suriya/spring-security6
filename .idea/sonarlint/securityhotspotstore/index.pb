@@ -5,3 +5,5 @@ T
 $section1/springsecuritybasic/pom.xml,0\3\03f925bd427ffcd6b01810824af2f2178c8854ec
 ü
 osection1/springsecuritybasic/src/main/java/com/gosuriya/springsecuritybasic/SpringsecuritybasicApplication.java,0\1\01c56a582d8f39c240e6cea59b316027b320fbef
+ù
+msection1/springsecuritybasic/src/main/java/com/gosuriya/springsecuritybasic/controller/WelcomeController.java,4\f\4f339bf8f686fc90a70033309b04211585611ecc
